@@ -1,5 +1,3 @@
-#prime number
-
 p=2
 print(p,'is a prime number')
 p+=1
